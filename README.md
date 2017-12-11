@@ -1,6 +1,6 @@
 README
 
-	            Xinyu Kang
+	      Xinyu Kang
               xkang@bu.edu
               December 2017
 
@@ -13,9 +13,9 @@ README
 Applications 
 ===========================================================================================
 
-- Part 1: 	simulation study that generates Figure 1 in the paper
+- Part 1: 	Simulation study that generates Figure 1 in the paper.
 
-- Part 2: 	an denoise example using the network TGUH.
+- Part 2: 	An denoise example using the network TGUH.
 		We denoise the signal over a barbell of size 4+6.
 
 Functions 
