@@ -10,7 +10,8 @@ README
 	Xinyu Kang, Piotr Fryzlewicz, Catherine Chu, Mark Kramer, Eric Kolaczyk
 	Asilomar Conference on Signals, Systems, and Computers (2017)
 
-Applications ==============================================================================
+Applications 
+===========================================================================================
 
 - Part 1: 	simulation study that generates Figure 1 in the paper
 
