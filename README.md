@@ -23,17 +23,17 @@ Functions
 
 TGUH_functions.r  : contains functions used by the algorithm.
 
-barbell			          : simulate barbell network 
-column.norm			      : compute the l2 norm of a column vector 
-denoise.th			      : Functions that denoise network signals
-diagSparse			      : build a block diagonal matrix given block matrices
-est.noise			        : estimate the standard deviation of iid Gaussian noise
-normalized.signal	    : normalize a function to have unit standard deviation
-plotCompression		    : generate figure1 in the paper
-one				            : generate matrix of ones
-row.norm			        : compute the l2 norm of a row vector
-sym.by.avg			      : make an asymmetric matrix a symmetric one
-tguhBarbell			      : TGUH transformation of a noisy barbell network
-uh.bu.net.inv.sm	    : Inverse transform with smoothing
-uh.bu.net.nonrem		  : greedy version of the TGUH
+barbell			: simulate barbell network 
+column.norm		: compute the l2 norm of a column vector 
+denoise.th		: functions that denoise network signals
+diagSparse		: build a block diagonal matrix given block matrices
+est.noise		: estimate the standard deviation of iid Gaussian noise
+normalized.signal	: normalize a function to have unit standard deviation
+plotCompression		: generate figure1 in the paper
+one			: generate matrix of ones
+row.norm		: compute the l2 norm of a row vector
+sym.by.avg		: make an asymmetric matrix a symmetric one
+tguhBarbell		: TGUH transformation of a noisy barbell network
+uh.bu.net.inv.sm	: inverse transform with smoothing
+uh.bu.net.nonrem	: greedy version of the TGUH
 uh.bu.net.nonrem.mult	: TgUH algorithm
